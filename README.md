@@ -6,4 +6,5 @@ is around 1,200 points and the best is around 3,000. For a more in depth analysi
 
 
 
-![Picture1](https://user-images.githubusercontent.com/66333267/189181350-9fd194f7-0b6e-405e-a915-5b4e2d69a87c.gif)
+
+![LightningTalkAI](https://user-images.githubusercontent.com/66333267/189181934-12f6da28-b7a7-4d89-ba32-27ea6b1a8f01.gif)
